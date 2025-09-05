@@ -1,6 +1,6 @@
 import numpy as np
 from constants import EMPTY
-#test the push
+
 class BoardGame:
     ROWS = 0
     COLS = 0
